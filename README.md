@@ -1,5 +1,5 @@
 # 💫 About Me:
-I used to work at Tata Consumer Products Limited.<br>I am currently learning AI/ML and AWS Certified Cloud Practitioner simultaneously<br>
+I’m a data analyst with a strong interest in turning raw data into meaningful insights. I enjoy working with SQL, Excel, and Python to solve business problems and support data-driven decisions. When I’m not analyzing data or coding, you’ll probably find me fueled by caffeine and exploring new ways to sharpen my analytical skills.<br>
 
 
 ## 🌐 Socials:
