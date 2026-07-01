@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a data analyst with a strong interest in turning raw data into meaningful insights. I enjoy working with SQL, Excel, and Python to solve business problems and support data-driven decisions. When I’m not analyzing data or coding, you’ll probably find me fueled by caffeine and exploring new ways to sharpen my analytical skills.<br>
+I’m a data analyst / data engineer with a strong interest in turning raw data into meaningful insights. I enjoy working with SQL, Excel, and Python to solve business problems and support data-driven decisions. When I’m not analyzing data or coding, you’ll probably find me fueled by caffeine and exploring new ways to sharpen my analytical skills.<br>
 
 
 ## 🌐 Socials:
